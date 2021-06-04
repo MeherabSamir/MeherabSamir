@@ -2,8 +2,7 @@
 I'm a passionate Self-Taught Front-End Web Developer from Gazipur, Bangladesh.I love writing code and making things happen! I love what I do, and am constantly honing my craft. You can follow along with me, I try to document <a href="https://medium.com/asifadib-diary/">MY JOURNEY</a> the best I can by writing articles.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeherabSamir&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeherabSamir&theme=cobalt)
+&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeherabSamir&theme=cobalt)
 
 
 <!--
