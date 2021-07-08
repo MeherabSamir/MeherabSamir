@@ -6,8 +6,8 @@ I'm a passionate learner.Currently trying to master Front End Development.I'm fr
 ### Currently Learning
 <img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <br>
-### Development Tools
 
+### Development Tools
 <img align="left" alt="react" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <br>
 
