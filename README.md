@@ -9,8 +9,7 @@ I'm a passionate learner.Currently trying to master Front End Development.I'm fr
 ### Development Tools
 
 <img align="left" alt="react" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<br>
-<br>
+
 
 ### Connect With Me
 
