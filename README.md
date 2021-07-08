@@ -6,5 +6,5 @@ I'm a passionate learner.Currently trying to master Front End Development.I'm fr
 ![Meherab Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeherabSamir&theme=cobalt)
 &nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeherabSamir&theme=cobalt)
 
-- ### Learning
+## Learning
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
