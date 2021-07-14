@@ -1,4 +1,4 @@
-# Hi there I'm Meherab Samir 👋 
+# Hi there I'm Meherab Samir <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 I'm a passionate learner.Currently trying to master Front End Development.I'm from Tongi,Gazipur,Bangladesh.I love writing code and making things happen! I love what I do, and am constantly honing my craft.
 <br>
 <br>
